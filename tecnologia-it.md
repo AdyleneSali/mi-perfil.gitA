@@ -20,3 +20,9 @@
 
 \##¿Qué necesito aprender primero?
 
+
+
+\*Primero necesito dominar los fundamentos de redes (protocolos, direccionamiento IP, firewalls) y sistemas operativos. Después, aprender sobre análisis de vulnerabilidades, criptografía básica y herramientas de seguridad como Wireshark o Nmap\* 
+
+
+
