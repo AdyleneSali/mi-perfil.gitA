@@ -12,5 +12,7 @@
 
 \- \*\*Intereses:\*\* ciberseguridad, redes, Docker
 
+\- \*\*materia:\*\* optativa
+
 
 
