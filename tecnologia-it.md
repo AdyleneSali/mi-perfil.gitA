@@ -22,7 +22,15 @@
 
 
 
-\*Primero necesito dominar los fundamentos de redes (protocolos, direccionamiento IP, firewalls) y sistemas operativos. Después, aprender sobre análisis de vulnerabilidades, criptografía básica y herramientas de seguridad como Wireshark o Nmap\* 
+\*Primero necesito dominar los fundamentos de redes (protocolos, direccionamiento IP, firewalls) y sistemas operativos. Después, aprender sobre análisis de vulnerabilidades, criptografía básica y herramientas de seguridad como Wireshark o Nmap\*
+
+
+
+\## ¿Qué me gustaría construir con ella?
+
+
+
+Me gustaría montar un laboratorio de pruebas con máquinas virtuales para practicar ataques y defensas en un entorno controlado, y más adelante ayudar a proteger la red de una organización realizando auditorías de seguridad.
 
 
 
